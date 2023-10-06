@@ -14,6 +14,10 @@ predefined rules.
 AI agent that plays the classic game of Tic-Tac-Toe
 against a human player.
 
+## Task 3:IMAGE CAPTIONING
+Combining computer vision and natural language processing to build
+an image captioning AI.
+
 ## Task 4: Restaurant Recommendation System
 A simple recommendation system that suggests items to
 users based on their preferences.
