@@ -1,6 +1,6 @@
 # Codsoft Internship
 
-## Task 1: Chatbot
+##Task 1: Chatbot
 
 ##Task 2: TicTacToe Game
 
